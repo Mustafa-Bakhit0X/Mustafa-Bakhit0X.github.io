@@ -12,7 +12,7 @@ description: >-
   Cybersecurity blog focused on malware analysis, reverse engineering, and threat intelligence.
 
 url: "https://Mustafa-Bakhit0X.github.io"
-baseurl: ""
+baseurl: "" 
 
 github:
   username: Mustafa-Bakhit0X
